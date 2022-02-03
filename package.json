@@ -1,5 +1,6 @@
 {
   "name": "backend",
+  "author": "Ojas Thakur",
   "version": "1.0.0",
   "description": "Practice Project for free code camp course",
   "main": "index.js",
@@ -7,8 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "'"
+    ""
   ],
-  "author": "Ojas Thakur",
+  
   "license": "ISC"
 }
